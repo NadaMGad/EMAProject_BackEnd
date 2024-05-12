@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EMA_Project.props" />
+</Project>
